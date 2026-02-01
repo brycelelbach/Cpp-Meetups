@@ -196,7 +196,8 @@ Modern C++ empowers you to build web applications and services that are fast, ef
 
 ## Video Presentation link
 
-<video src="https://youtu.be/7ddZQAYWIn0" controls width="100%"></video>
+[![Video Thumbnail](https://img.youtube.com/vi/7ddZQAYWIn0/0.jpg)](https://youtu.be/7ddZQAYWIn0)
+
 
 ## Presentation Document
 
