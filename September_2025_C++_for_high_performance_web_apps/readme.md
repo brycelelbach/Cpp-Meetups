@@ -197,3 +197,7 @@ Modern C++ empowers you to build web applications and services that are fast, ef
 ## Video Presentation link
 
 <video src="https://youtu.be/7ddZQAYWIn0" controls width="100%"></video>
+
+## Presentation Document
+
+[`cpp for high performance web apps`](./cpp%20for%20high%20performance%20web%20apps.pdf)
